@@ -1,17 +1,18 @@
-# gym_tracker
+# Gym Tracker
 
-A new Flutter project.
+An fully functional application that allow's you to log your gym workouts.
 
-## Getting Started
+## Datebase used
 
-This project is a starting point for a Flutter application.
+SQFlite - Flutter implementation of the SQLite Database
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Supports Android 12's dynamic color theming
+- Support Material 3 UI Elements
+- Dark mode and Light mode support
+- Notification to workout and log workouts
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Platforms
+Current Work's only on Android
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# gym-tracker
+You can enabled iOS by running the following command: ```flutter create --platforms=ios```
